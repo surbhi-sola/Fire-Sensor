@@ -1,0 +1,9 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"BZ1";"Buzzer_12x9.5RM7.6";1;"Buzzer";;;
+2;"C1";"CP_Radial_D10.0mm_P3.50mm";1;"10uF";;;
+3;"J1";"BarrelJack_Horizontal";1;"DC";;;
+4;"TH1";"PinHeader_1x02_P2.54mm_Horizontal";1;"5K";;;
+5;"D1";"D_5W_P10.16mm_Horizontal";1;"1N4007";;;
+6;"Q1";"TO-39-3";1;"2N2219";;;
+7;"RV1";"Potentiometer_ACP_CA6-H2,5_Horizontal";1;"5K";;;
+8;"R1";"R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal";1;"33K";;;
